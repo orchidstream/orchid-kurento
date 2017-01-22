@@ -1,1 +1,1 @@
-= Kurento Media Server Docker file for Ubuntu 16.04LTS
+= Kurento Media Server Dockerfile for Ubuntu 16.04LTS
